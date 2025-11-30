@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, I am Himanshu Vishwakarma! 😊
 
-<!--
-**himanshuvishwakarma1972002/himanshuvishwakarma1972002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Himanshu Vishwakarma, a full-stack (MERN) and cloud-focused developer with hands-on experience building scalable, high-performance applications. I currently work as a Software Development Engineer at Inkhub Tattoos, where I specialize in React.js, Next.js, Node.js, Express.js, Redis, AWS, Docker, and WebSockets. I'm deeply passionate about modern web technologies, real-time systems, and cloud-native development.
 
-Here are some ideas to get you started:
+I love creating systems that solve real problems. When I joined my current company, I worked on large-scale applications, including admin panels, KPI dashboards, and real-time systems for 80K+ users. This helped me explore a wide range of tools, technologies, and cloud platforms—greatly expanding my development and architectural thinking. Throughout this journey, I picked up countless techniques, debugging strategies, and design patterns. One of the most challenging and rewarding pieces I built was a real-time WebSocket order-streaming system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a Bachelor of Technology (B.Tech) in Computer Science & Engineering, where I strengthened my understanding of programming fundamentals, algorithms, and software engineering principles. During college, I also explored machine learning, creating a movie recommendation system using Scikit-learn, Pandas, and NumPy.
+
+While I love backend and system design, my journey started with frontend development, and I gradually evolved into a full-stack developer. Today, I enjoy working across the entire stack—building seamless UIs, scalable APIs, and optimized cloud architectures. I’m continuously learning, experimenting, and leveling up my engineering skills.
+
+🌱 Currently exploring AWS, DevOps, Docker, and scalable cloud systems
+💼 Building real-time dashboards, admin panels & cloud-native apps
+📫 How to reach me: himanshu1972002@gmail.com or LinkedIn
+❓ Ask me about Next.js, WebSockets, MERN Stack, APIs & system design
+💡 Fun Fact: I enjoy turning complex problems into simple, elegant solutions
+🏆 Goal: Become the engineer I once looked up to
