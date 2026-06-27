@@ -1,11 +1,8 @@
 {
   "name": "dynamic-github-readme",
   "version": "2.0.0",
-  "description": "Kiran-style dynamic GitHub profile README for Himanshu Vishwakarma",
+  "description": "GitHub profile README for Himanshu Vishwakarma",
   "private": true,
-  "scripts": {
-    "update-quote": "node update-quote.js"
-  },
   "engines": {
     "node": ">=18"
   }

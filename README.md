@@ -56,81 +56,12 @@
   <li>🗄️ <strong>Databases</strong> — MongoDB, Redis, caching & data modeling</li>
 </ul>
 <br />
-<br />
-<br />
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/himanshuvishwakarma1972002">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=onedark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/himanshuvishwakarma1972002">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuvishwakarma1972002&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff&rank_icon=github&hide=issues&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/himanshuvishwakarma1972002">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvishwakarma1972002&theme=tokyonight&background=0,13,30,14,75,182&fire=58a6ff&ring=79c0ff&sideNums=ffffff&sideLabels=ffffff&dates=58a6ff&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/himanshuvishwakarma1972002">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuvishwakarma1972002&layout=compact&theme=tokyonight&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/himanshuvishwakarma1972002">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=himanshuvishwakarma1972002&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff" alt="Top Contributions" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuvishwakarma1972002&bg_color=0d1117&color=ffffff&line=58a6ff&point=79c0ff&area=true&hide_border=false" alt="Contribution Graph">
 </div>
-
----
-
-<!--Dynamic Quote card updates daily-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Developer+Wisdom&quote=The+best+way+to+predict+the+future+is+to+build+it+%E2%80%94+one+commit+at+a+time.&theme=dark&bg_color=0d1117&author_color=79c0ff&accent_color=58a6ff">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
