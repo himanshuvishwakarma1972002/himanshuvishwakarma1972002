@@ -34,9 +34,8 @@
 <!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=light&perline=7">
-  <img align="center" alt="Tech Stack" src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_Dark.gif" width="100%">
 </picture>
 <br />
 
