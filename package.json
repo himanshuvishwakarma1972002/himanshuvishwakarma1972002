@@ -1,17 +1,12 @@
 {
   "name": "dynamic-github-readme",
-  "version": "1.0.0",
-  "description": "AI-powered dynamic GitHub profile README for Himanshu Vishwakarma",
+  "version": "2.0.0",
+  "description": "Kiran-style dynamic GitHub profile README for Himanshu Vishwakarma",
   "private": true,
   "scripts": {
-    "generate": "node scripts/generateReadme.js",
-    "generate:local": "node -r dotenv/config scripts/generateReadme.js"
+    "update-quote": "node update-quote.js"
   },
   "engines": {
     "node": ">=18"
-  },
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "openai": "^4.77.0"
   }
 }

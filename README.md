@@ -1,123 +1,159 @@
-<div align="center">
+<!--Banner-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0e75b6,58a6ff,1f6feb&height=130&section=header&text=Himanshu%20Vishwakarma&fontSize=38&fontColor=fff&animation=twinkling" width="100%" />
 
-# Hi there, I'm Himanshu Vishwakarma 👋
-
-[![Profile Views](https://komarev.com/ghpvc/?username=himanshuvishwakarma1972002&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/himanshuvishwakarma1972002)
-[![GitHub followers](https://img.shields.io/github/followers/himanshuvishwakarma1972002?style=for-the-badge&logo=github&color=24292e)](https://github.com/himanshuvishwakarma1972002?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vishwakarma-109719311/)
-
-**Full Stack Developer (MERN + Cloud)** · Building scalable, real-time, cloud-native systems
-
+<!--Developer Illustration-->
+<div>
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Developer Illustration">
 </div>
 
----
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʜɪᴍᴀɴsʜᴜ!
+*Full Stack Developer (MERN + Cloud)*
+<br />
 
-## 🤖 AI-Powered Intro
+<!--Start Intro-->
+<p align="left">I am a Full Stack Developer specializing in React.js, Next.js, Node.js, Express.js, MongoDB, Redis, AWS, Docker, and WebSockets — building scalable, real-time, cloud-native systems for 80K+ users.</p>
 
-Hi, I'm **Himanshu Vishwakarma**, a full-stack (MERN) and cloud-focused developer with hands-on experience building scalable, high-performance applications. I currently work as a Software Development Engineer at **Inkhub Tattoos**, specializing in React.js, Next.js, Node.js, Express.js, Redis, AWS, Docker, and WebSockets.
-
-I'm passionate about modern web technologies, real-time systems, and cloud-native development — turning complex problems into simple, elegant solutions for **80K+ users**.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshuvishwakarma1972002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuvishwakarma1972002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvishwakarma1972002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuvishwakarma1972002&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-
-</div>
-
----
-
-## 💬 Ask Me About
-
-| Topic | Details |
-|-------|---------|
-| ⚛️ **Frontend** | React.js, Next.js, responsive UI, performance optimization |
-| 🔧 **Backend** | Node.js, Express.js, REST APIs, microservices |
-| ⚡ **Real-time** | WebSockets, live dashboards, event-driven systems |
-| ☁️ **Cloud** | AWS, Docker, CI/CD, cloud-native architecture |
-| 🗄️ **Databases** | MongoDB, Redis, data modeling & caching |
-| 🏗️ **System Design** | Scalable systems for 80K+ users |
-
----
-
-## 💡 Quote of the Day
-
-> The best way to predict the future is to build it — one commit at a time.
-
-<sub>✨ Auto-generated by AI · Updates weekly</sub>
-
----
-
-## 🔥 Tech Tip
-
-> **Tip:** When scaling WebSocket connections, use Redis Pub/Sub as a message broker so multiple server instances can broadcast events reliably across your cluster.
-
----
-
-## 🚀 What I'm Up To
-
-- 🌱 Exploring **AWS**, **DevOps**, and **Docker** at scale
-- 💼 Building real-time dashboards, admin panels & cloud-native apps
+- ✨ Software Development Engineer at **Inkhub Tattoos**
+- 🌱 Currently exploring **AWS**, **DevOps**, and **Docker** at scale
+- 💼 Building real-time dashboards, admin panels & cloud-native applications
+- ⚡ Built a real-time WebSocket order-streaming system for high-traffic platforms
+- 🎓 B.Tech in Computer Science & Engineering
+- ❓ Ask me about **Next.js**, **WebSockets**, **MERN Stack**, **APIs** & **System Design**
+- 💡 Fun fact: I enjoy turning complex problems into simple, elegant solutions
 - 🏆 Goal: Become the engineer I once looked up to
-- 📫 Reach me: **himanshu1972002@gmail.com**
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himanshuvishwakarma1972002&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="himanshuvishwakarma1972002" style="padding-right:20px;" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=light&perline=7">
+  <img align="center" alt="Tech Stack" src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,aws,docker,git,githubactions,postman,linux&theme=dark&perline=7">
+</picture>
+<br />
 
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening cloud architecture skills with <strong>AWS</strong> and container orchestration.</li>
+  <li>Exploring advanced <strong>Next.js</strong> patterns, SSR, and performance optimization.</li>
+  <li>Scaling real-time systems with <strong>WebSockets</strong>, <strong>Redis Pub/Sub</strong>, and event-driven design.</li>
+</ul>
+
+<h3 align="left">Ask Me About</h3>
+<ul align="left">
+  <li>⚛️ <strong>Frontend</strong> — React.js, Next.js, responsive UI & performance</li>
+  <li>🔧 <strong>Backend</strong> — Node.js, Express.js, REST APIs & microservices</li>
+  <li>⚡ <strong>Real-time</strong> — WebSockets, live dashboards & streaming systems</li>
+  <li>☁️ <strong>Cloud</strong> — AWS, Docker, CI/CD & cloud-native architecture</li>
+  <li>🗄️ <strong>Databases</strong> — MongoDB, Redis, caching & data modeling</li>
+</ul>
+<br />
+<br />
+<br />
+
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/himanshuvishwakarma1972002">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=onedark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=himanshuvishwakarma1972002&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/himanshuvishwakarma1972002">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuvishwakarma1972002&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff&rank_icon=github&hide=issues&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/himanshuvishwakarma1972002">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuvishwakarma1972002&theme=tokyonight&background=0,13,30,14,75,182&fire=58a6ff&ring=79c0ff&sideNums=ffffff&sideLabels=ffffff&dates=58a6ff&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/himanshuvishwakarma1972002">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuvishwakarma1972002&layout=compact&theme=tokyonight&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/himanshuvishwakarma1972002">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=himanshuvishwakarma1972002&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,13,30,14,75,182&title_color=58a6ff&text_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuvishwakarma1972002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vishwakarma-109719311/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu1972002@gmail.com)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuvishwakarma1972002&bg_color=0d1117&color=ffffff&line=58a6ff&point=79c0ff&area=true&hide_border=false" alt="Contribution Graph">
 </div>
 
 ---
 
+<!--Dynamic Quote card updates daily-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Developer+Wisdom&quote=The+best+way+to+predict+the+future+is+to+build+it+%E2%80%94+one+commit+at+a+time.&theme=dark&bg_color=0d1117&author_color=79c0ff&accent_color=58a6ff">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
+
+<!--Contact Section-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
 
-**Thanks for visiting!** ⭐ Star my repos if you find something useful.
+<a href="mailto:himanshu1972002@gmail.com" target="_blank">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" height="50" alt="himanshu1972002@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-<sub>Last updated: 2026-06-26 · Powered by OpenAI + GitHub Actions</sub>
+<a href="https://github.com/himanshuvishwakarma1972002" target="_blank">
+<img src="https://img.icons8.com/fluency/48/github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/himanshu-vishwakarma-109719311/" target="_blank">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
 
 </div>
+<br />
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0e75b6,58a6ff&height=65&section=footer"/>
+</p>
